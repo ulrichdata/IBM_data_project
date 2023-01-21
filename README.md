@@ -1,5 +1,2 @@
-# IBM_data_project
-
-## editing the file
-
-it is a markdown file in this repository.
+# disply the output
+print ("new python file")
